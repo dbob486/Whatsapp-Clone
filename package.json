@@ -1,0 +1,20 @@
+{
+  "name": "whatsappclone",
+  "version": "1.0.0",
+  "description": "root scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd client && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbob486/Whatsapp-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbob486/Whatsapp-Clone/issues"
+  },
+  "homepage": "https://github.com/dbob486/Whatsapp-Clone#readme"
+}
