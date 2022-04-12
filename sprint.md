@@ -1,0 +1,1 @@
+SERVER: create nosql db to store login
